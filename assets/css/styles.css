@@ -15,6 +15,10 @@ h1 {
     margin-top: 15px;
 }
 
+h2{
+    font-weight: 500 !important;
+}
+
 h3 {
     font-size: 16px;
     font-weight: 100 !important;
@@ -39,6 +43,6 @@ h3 {
     /* background-color: #0C5170; */
     flex-direction: column;
     background-image: url("../img/bg-main-cut.jpg");
-    /* background-image: url("../img/bg-cover-color.jpg"); */
+    background-image: url("../img/bg-cover-color.jpg");
     background-size: cover;
 }
